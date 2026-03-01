@@ -1,0 +1,27 @@
+# Node
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Large dataset
+*.zst
+*.jsonl
+*.zip
